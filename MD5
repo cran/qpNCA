@@ -1,11 +1,11 @@
-b4f783be7be38c07eac228667a413ba4 *DESCRIPTION
+abf3c9c42683b3ad67df09f4dd665534 *DESCRIPTION
 d2258251a607c4f0f35358c1391ce844 *NAMESPACE
 88176686c744e50556a80f8b56b38136 *R/calc.ctmax.r
 421568ca05ce6827d7bdf2c2634ebc7e *R/calc.par.r
 4cc5dfcfcb847a7edffdc2e48bfaac36 *R/calc.par.th.r
 13f835b96e24a77979f26f48c21dc040 *R/correct.conc.r
 26be4565b24a560a87de88b343b07015 *R/correct.loq.r
-c1cc4b257ba9e4f11fecd3e91b8c995e *R/correct.time.r
+67732cb430f5f52591d4df17769c9692 *R/correct.time.r
 d6f70a1b8c98c3831275f077a0e9f42d *R/est.thalf.r
 9f5ad20bcd2e8b52631e0eade1674d05 *R/globalVariables.r
 d811270d555ad55fec85cacaea774465 *R/interpol.r
@@ -23,9 +23,9 @@ b35876f9c28f4e3e95b721f062450db3 *inst/doc/Example-full-nca-analysis.html
 7b1750e6d244eda0ec16afde3688aa9a *inst/doc/Example-stepwise-nca-analysis.R
 9a77c0ed4b1ac53461ae4038e02315c9 *inst/doc/Example-stepwise-nca-analysis.html
 c701c3a11c051840abf62b2fcdd97472 *inst/doc/Example-stepwise-nca-analysis.rmd
-e243db7a982170c61b14c4c300584b01 *inst/doc/Parameter_Guidelines.pdf
+a8a95d9534af7094221ca034c961fd8c *inst/doc/Parameter_Guidelines.pdf
 73b8edf0ef6b98f566016ee79a4e0135 *inst/doc/Parameter_Guidelines.rmd
-ee693258ed990563352e13cc44daa014 *inst/doc/User_Guide.pdf
+b64a00cd79f1752fc8b3ddb5b95c513a *inst/doc/User_Guide.pdf
 76444eb485582591159025bb36c4c676 *inst/doc/User_Guide.rmd
 354b480d410463defb188efa4edbb2c4 *man/calc.ctmax.Rd
 c9ca12066fd0b99fbbae64c60fd1520c *man/calc.par.Rd
